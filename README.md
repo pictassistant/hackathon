@@ -6,3 +6,4 @@ COEP Hackathon 3.0
 > - npm install -g bower
 > - npm install -g gulp
 > - npm install
+> - gulp serve
